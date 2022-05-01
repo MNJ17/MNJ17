@@ -3,6 +3,7 @@
 - 🌱 Estudando programação em python e outras linguagens.
 - 💬 Fale comigo sobre o futuro.
 - 😄 Pronouns: ela/dela
+- ✨ Marvel fan.
 
 <div align="center">
   <a href="https://github.com/MNJ17">
