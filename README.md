@@ -1,9 +1,10 @@
-## Oiii sou a Monaliza(MNJ), estudante de TI!
+## Hiii my name is Monaliza(MNJ), IT student!
 
-- 🌱 Estudando programação em python e outras linguagens.
-- 💬 Fale comigo sobre o futuro.
-- 😄 Pronouns: ela/dela
-- ✨ Marvel fan.
+- 🌱 Studying programming in python and other languages.
+- 💬 Talk to me about the future and anything.
+- 😄 Pronouns:she/her
+- ✨ Fun fact: Marvel fan.
+- 🇧🇷 Brazilian
 
 <div align="center">
   <a href="https://github.com/MNJ17">
